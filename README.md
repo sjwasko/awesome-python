@@ -818,7 +818,8 @@ _Useful CLI-based tools for productivity._
   - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
   - [copier](https://github.com/copier-org/copier) - A library and command-line utility for rendering projects templates.
   - [doitlive](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-  - [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
+  - [fishin](https://github.com/sjwasko/fishin) - A terminal solunar, tide, and weather forecast for planning fishing trips.
+   - [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
   - [tmuxp](https://github.com/tmux-python/tmuxp) - A [tmux](https://github.com/tmux/tmux) session manager.
   - [xonsh](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
   - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
